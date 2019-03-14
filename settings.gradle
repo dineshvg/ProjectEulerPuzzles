@@ -1,3 +1,4 @@
 rootProject.name = 'puzzle'
 include 'problem1'
+include 'problem2'
 
